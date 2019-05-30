@@ -1,3 +1,3 @@
-真實跑時，才會把ipynb連到kernel上
+# Colab-ripper
+A toolkit that tries to access google-colab by script.
 
-socket.io timestamp yeast format
