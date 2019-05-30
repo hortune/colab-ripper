@@ -1,0 +1,3 @@
+requests
+python-engineio>=v3.7.0
+python-socketio
